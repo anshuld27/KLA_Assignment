@@ -1,0 +1,6 @@
+@currency_speller_api_HostAddress = http://localhost:5201
+
+GET {{currency_speller_api_HostAddress}}/convertCurrency/
+Accept: application/json
+
+###

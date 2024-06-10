@@ -1,0 +1,28 @@
+.form-container {
+    border: 1px solid #ced4da;
+    padding: 20px;
+    border-radius: 5px;
+    width: 100%;
+    max-width: 500px;
+    background-color: white;
+  }
+  .result-box {
+    margin-top: 10px;
+  }
+
+  .amount{
+    margin-top: 10px;
+  }
+
+  .form-control {
+    margin-bottom: 15px; /* Add margin to form controls */
+  }
+  
+  .p{
+    width: 500px;
+  }
+  .container { 
+    width: 500px; /* Set a fixed width */ 
+    margin: 0 auto; /* Center align using margin */ 
+    margin-top: 20px;
+  } 
